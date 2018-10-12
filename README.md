@@ -21,6 +21,9 @@ Looking forward to working with you!
 > * [HanaHaus](http://www.hanahaus.com/) - _Palo Alto, CA_
 > * [Microsoft Reactor](https://developer.microsoft.com/en-us/reactor/) - _many locations_
 > * [Capital Factory](https://www.capitalfactory.com/) - _Austin, TX_
+> * [SOHO 3Q](http://www.soho3q.com/home/#!/) - _Beijing, China_
+> * [St Oberholtz, Mitte](http://sanktoberholz.de/en/locations/) - _Berlin, Germany_
+> * [Citizen Space](https://citizen-space.ch/) - _Zurich, Switzerland_
 > * [Caroline Collective](https://www.houstonpress.com/arts/caroline-collective-is-officially-closed-6390605) - _Houston, TX; now closed._
 
 ### 🗺 Location
@@ -39,22 +42,22 @@ My email response times are extremely right-skewed, and look a bit like this (x-
 
 ## `PaigeViews`
 
-### Bring data to opinion fights.
+### 📊 Bring data to opinion fights.
 Folks who are adept at spotting opportunities to apply machine learning and automation to existing business processes will inherit the earth. That's the only way to win: by bringing data to opinion fights; and making *every* decision data-driven.
 
-### Relentlessly ask questions.
+### 🙋‍♀️ Relentlessly ask questions.
 On a similar vein: the most effective engineers (and leaders) are curious humans — scientists, even if they don't know it — and they're always, *always* asking questions, formulating hypotheses, running experiments.
 
-### Communication is everything, especially in open-source.
+### 🗣 Communication is everything, especially in open-source.
 If you can't communicate your findings or collaborate with others, your career will be over before it begins. Science and engineering are team sports. Any successful open-source project will have a strong emphasis on communication, collaboration, empathy, and respect - not just engineering. [A thread](https://twitter.com/DynamicWebPaige/status/945702102214594560).
 
-### Choose growth opportunities.
+### 📈 Choose growth opportunities.
 Always choose an opportunity to learn, to grow new skills. [Always](https://twitter.com/DynamicWebPaige/status/1050126083863924736)
 
-### Nurture and build communities.
+### 👭 Nurture and build communities.
 Communities are powerful, fragile things and must be nurtured over time.
 
-### Give without expecting a return.
+### 🎁 Give without expecting a return.
 [Someone very wise](http://third-bit.com/) once told me that throughout a career, you'll meet people — and you'll help, support, and encourage them, not even thinking about it. But those influences _will_ change lives; and if you're lucky, you'll find out later.
 
 ### Believe in people, not acronyms.
