@@ -1,5 +1,7 @@
 # `HTTP 200: Paige Found`
 
+![](https://github.com/dynamicwebpaige/info/blob/master/23926211_10155941132466672_7816746537214097786_o.jpg)
+
 🙋‍♀️ _Hi, friend! Pleased to meet you._ 
 
 Chances are, I've either directed you here or you've been spelunking through my GitHub repos: in which case, welcome! Take a look around, read through my principles (listed below 👇), and [let me know if you have any questions](mailto:paige.bailey@microsoft.com). 
