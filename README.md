@@ -60,8 +60,8 @@ Communities are powerful, fragile things and must be nurtured over time.
 ### 🎁 Give without expecting a return.
 [Someone very wise](http://third-bit.com/) once told me that throughout a career, you'll meet people — and you'll help, support, and encourage them, not even thinking about it. But those influences _will_ change lives; and if you're lucky, you'll find out later.
 
-### Believe in people, not acronyms.
-[This year](https://twitter.com/DynamicWebPaige/status/984584446316703746) was the first time I'd ever heard the phrase "PhD or GTFO", and I don't believe I've ever been more nauseated. Acronyms don't equate to worth, or industriousness, or character. Have met many brilliant folks without a degree; and PhD's without creativity, empathy, or work ethic. I'll choose the former, every time.
+### 🙏 Believe in people, not acronyms.
+[This year](https://twitter.com/DynamicWebPaige/status/984584446316703746) was the first time I'd ever heard the phrase "_PhD or GTFO_", and I don't believe I've ever been more nauseated. Acronyms don't equate to worth, or industriousness, or character. Have met many brilliant folks without a degree; and PhD's without creativity, empathy, or work ethic. I'll choose the former, every time.
 
 **********
 
