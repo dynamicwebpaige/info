@@ -2,7 +2,7 @@
 
 🙋‍♀️ _Hi, friend! Pleased to meet you._ 
 
-Chances are, I've either directed you here or you've been looking through my GitHub repos: in which case, welcome! Take a look around, read through my principles (listed below 👇), and [let me know if you have any questions](mailto:paige.bailey@microsoft.com). 
+Chances are, I've either directed you here or you've been spelunking through my GitHub repos: in which case, welcome! Take a look around, read through my principles (listed below 👇), and [let me know if you have any questions](mailto:paige.bailey@microsoft.com). 
 
 Looking forward to working with you!
 
@@ -10,7 +10,7 @@ Looking forward to working with you!
 
 ## `whomai`
 
-### ⌚ My Hours
+### ⌚ Hours
 
 * I prefer to _work from home_, but love serendipitous hallway conversations + getting to know my coworkers. My ideal work week would have 3 - 4 days in the office, and 1 - 2 days working from home, or from a coworking space.
 
@@ -23,7 +23,7 @@ Looking forward to working with you!
 
 ### 🗺 Location
 
-I am currently based in **Bellevue, WA**, just north of downtown - and have mapped every coffee shop within a two mile radius. Let me know if you're in the area, and [let's caffeinate]()! ☕
+I am currently based in **Bellevue, WA**, just north of downtown - and have mapped every coffee shop within a two mile radius. Let me know if you're in the area, and [let's caffeinate](https://calendly.com/paigebailey)! ☕
 
 ### 📞 Contact
 
@@ -38,10 +38,22 @@ My email response times are extremely right-skewed, and look a bit like this (x-
 ## `PaigeViews`
 
 ### Bring data to opinion fights.
-### Communication is everything.
+Folks who are adept at spotting opportunities to apply machine learning and automation to existing business processes will inherit the earth. That's the only way to win: by bringing data to opinion fights; and making *every* decision data-driven.
+
+### Relentlessly ask questions.
+On a similar vein: the most effective engineers (and leaders) are curious humans — scientists, even if they don't know it — and they're always, *always* asking questions, formulating hypotheses, running experiments.
+
+### Communication is everything, especially in open-source.
+If you can't communicate your findings or collaborate with others, your career will be over before it begins. Science and engineering are team sports. Any successful open-source project will have a strong emphasis on communication, collaboration, empathy, and respect - not just engineering. [A thread](https://twitter.com/DynamicWebPaige/status/945702102214594560).
+
 ### Choose growth opportunities.
+Always choose an opportunity to learn, to grow new skills. [Always](https://twitter.com/DynamicWebPaige/status/1050126083863924736)
+
 ### Nurture and build communities.
+Communities are powerful, fragile things and must be nurtured over time.
+
 ### Give without expecting a return.
+[Someone very wise](http://third-bit.com/) once told me that throughout a career, you'll meet people — and you'll help, support, and encourage them, not even thinking about it. But those influences _will_ change lives; and if you're lucky, you'll find out later.
 
 **********
 
