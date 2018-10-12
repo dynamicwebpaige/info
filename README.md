@@ -14,7 +14,7 @@ Looking forward to working with you!
 
 ### ⌚ Hours
 
-* I prefer to _work from home_, but love serendipitous hallway conversations + getting to know my coworkers. My ideal work week would have 3 - 4 days in the office, and 1 - 2 days working from home, or from a coworking space.
+* I prefer to _work from home_, but love serendipitous hallway conversations + getting to know my coworkers. My ideal work week would have _3 - 4 days in the office_, and _1 - 2 days working from home_, or from a coworking space.
 
 * Speaking of coworking spaces: **let me know** if you'd like to explore a new one, or if you have recommendations! I will spend at least a couple hours in one in each city I travel to. Some favorites:
 
