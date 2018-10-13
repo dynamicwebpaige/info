@@ -46,6 +46,8 @@ Previously, I've lived in:
 
 ...and I'm always up for traveling or exploring new locations!
 
+![](https://pbs.twimg.com/media/Dfv_b2wUEAAcJAJ.jpg:large)
+
 *****************
 
 ### 📞 Contact
@@ -80,6 +82,8 @@ Communities are powerful, fragile things and must be nurtured over time.
 
 ### 🙏 Believe in people, not acronyms.
 [This year](https://twitter.com/DynamicWebPaige/status/984584446316703746) was the first time I'd ever heard the phrase "_PhD or GTFO_", and I don't believe I've ever been more nauseated. Acronyms don't equate to worth, or industriousness, or character. Have met many brilliant folks without a degree; and PhD's without creativity, empathy, or work ethic. I'll choose the former, every time.
+
+![](https://scontent-lax3-1.xx.fbcdn.net/v/t31.0-8/28701025_10156281036876672_7468178771802974727_o.jpg?_nc_cat=103&oh=ae1d9b39115b7be029921b9f49c476d4&oe=5C587DE6)
 
 **********
 
