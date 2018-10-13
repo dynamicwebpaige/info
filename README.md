@@ -34,7 +34,7 @@ This list is continuously evolving, so keep checking back!
 
 ### 🗺 Location
 
-I am currently based in **Bellevue, WA**, just north of downtown - and have mapped every coffee shop within a two mile radius. Let me know if you're in the area, and [let's caffeinate](https://calendly.com/paigebailey)! ☕
+I am currently based in beautiful **Bellevue, WA**, just north of downtown - and have mapped every coffee shop within a two mile radius. Let me know if you're in the area, and [let's caffeinate](https://calendly.com/paigebailey)! ☕
 
 Previously, I've lived in:
 
@@ -44,7 +44,7 @@ Previously, I've lived in:
 * 🏮 [Beijing, China](https://goo.gl/maps/fcAfj4DkQpq)
 * 🎶 [Austin, TX](https://goo.gl/maps/StdBoqh8hZs)
 
-...and I'm always up for traveling or exploring new locations!
+...and I'm always up for traveling or exploring new locations. [This](http://www.computerhistory.org/), [this](https://dynamicland.org/), [this](http://www.moesbooks.com/), and [this](https://www.menil.org/collection) are my favorite places in the world. 
 
 ![](https://pbs.twimg.com/media/Dfv_b2wUEAAcJAJ.jpg:large)
 
