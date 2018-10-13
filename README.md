@@ -30,6 +30,8 @@ This list is continuously evolving, so keep checking back!
 
 ![](https://pbs.twimg.com/media/DZob0mWV4AEwKuH.jpg:large)
 
+***************
+
 ### 🗺 Location
 
 I am currently based in **Bellevue, WA**, just north of downtown - and have mapped every coffee shop within a two mile radius. Let me know if you're in the area, and [let's caffeinate](https://calendly.com/paigebailey)! ☕
@@ -43,6 +45,8 @@ Previously, I've lived in:
 * 🎶 [Austin, TX](https://goo.gl/maps/StdBoqh8hZs)
 
 ...and I'm always up for traveling or exploring new locations!
+
+*****************
 
 ### 📞 Contact
 
