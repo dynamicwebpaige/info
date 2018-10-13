@@ -26,6 +26,8 @@ Looking forward to working with you!
 > * [Citizen Space](https://citizen-space.ch/) - _Zurich, Switzerland_
 > * [Caroline Collective](https://www.houstonpress.com/arts/caroline-collective-is-officially-closed-6390605) - _Houston, TX; now closed._
 
+This list is continuously evolving, so keep checking back!
+
 ![](https://pbs.twimg.com/media/DZob0mWV4AEwKuH.jpg:large)
 
 ### 🗺 Location
