@@ -1,6 +1,6 @@
 # 📶 `HTTP 200: Paige Found`
 
-![](https://github.com/dynamicwebpaige/info/blob/master/23926211_10155941132466672_7816746537214097786_o.jpg)
+![](info/23926211_10155941132466672_7816746537214097786_o.jpg )
 
 # 🙋‍♀️ _Hi, friend! Pleased to meet you._ 
 
@@ -36,7 +36,7 @@ I am available via **text message**, **email**, and [Twitter](https://www.twitte
 
 My email response times are extremely right-skewed, and look a bit like this (x-axis = days):
 
-![](https://github.com/dynamicwebpaige/info/blob/master/paige_responses.png)
+![](info/paige_responses.png)
 
 **********
 
