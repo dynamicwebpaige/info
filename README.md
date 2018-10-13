@@ -26,9 +26,21 @@ Looking forward to working with you!
 > * [Citizen Space](https://citizen-space.ch/) - _Zurich, Switzerland_
 > * [Caroline Collective](https://www.houstonpress.com/arts/caroline-collective-is-officially-closed-6390605) - _Houston, TX; now closed._
 
+![](https://pbs.twimg.com/media/DZob0mWV4AEwKuH.jpg:large)
+
 ### 🗺 Location
 
 I am currently based in **Bellevue, WA**, just north of downtown - and have mapped every coffee shop within a two mile radius. Let me know if you're in the area, and [let's caffeinate](https://calendly.com/paigebailey)! ☕
+
+Previously, I've lived in:
+
+* 🤠 [Itasca, TX](https://goo.gl/maps/76qUXHeyBcs)
+* 🎓 [Houston, TX](https://goo.gl/maps/TXgq2ZAVsmP2)
+* 🌌 [Boulder, CO](https://goo.gl/maps/adPT6ZSwCRT2)
+* 🏮 [Beijing, China](https://goo.gl/maps/fcAfj4DkQpq)
+* 🎶 [Austin, TX](https://goo.gl/maps/StdBoqh8hZs)
+
+...and I'm always up for traveling or exploring new locations!
 
 ### 📞 Contact
 
