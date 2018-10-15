@@ -72,10 +72,13 @@ On a similar vein: the most effective engineers (and leaders) are curious humans
 If you can't communicate your findings or collaborate with others, your career will be over before it begins. Science and engineering are team sports. Any successful open-source project will have a strong emphasis on communication, collaboration, empathy, and respect - not just engineering. [A thread](https://twitter.com/DynamicWebPaige/status/945702102214594560).
 
 ### 📈 Choose growth opportunities.
-Always choose an opportunity to learn, to grow new skills. [Always](https://twitter.com/DynamicWebPaige/status/1050126083863924736)
+"Try never to be the smartest person in the room. And if you are, I suggest you invite smarter people… or find a different room." Always choose an opportunity to learn, to grow new skills. [Always](https://twitter.com/DynamicWebPaige/status/1050126083863924736).
 
 ### 👭 Nurture and build communities.
-Communities are powerful, fragile things and must be nurtured over time.
+Communities are powerful, fragile things and must be nurtured over time. Be kind; have empathy; respect differing paces. **Everything** is about the community: making it collaborative, caring; a collective. A group of passionate people who care about each other's success. If you can build this, you can build anything.
+
+### 📃 If you don't have documentation, you don't have a minimum viable product.
+Am so impressed by the level of care and effort each [@docsmsft](https://docs.microsoft.com) article, tutorial, quickstart, etc. receives before it's pushed to production. It's a commitment to empathy and respect: welcoming people at whatever level they are, and patiently helping them move up to the next level. Docs are a developer's first impression of your product. Make them awesome.
 
 ### 🎁 Give without expecting a return.
 [Someone very wise](http://third-bit.com/) once told me that throughout a career, you'll meet people — and you'll help, support, and encourage them, not even thinking about it. But those influences _will_ change lives; and if you're lucky, you'll find out later.
