@@ -97,4 +97,5 @@ I would be delighted to speak at your [meetup / event / conference], and I am de
 ### HTTP 406: Not Acceptable
 
 * I _will not_ speak at a conference or meetup that does not have a Code of Conduct.
-*
+* I _will not_ accept payment for any speaking event, workshop, or business engagement.
+> If you would like to have me come speak at your event, please donate all suggested speaker fees to either **Women Who Code** or **The Last Mile**.
